@@ -1,2 +1,2 @@
 # Digest
-Examples for everyday use
+A simple scratchpad to look at.
